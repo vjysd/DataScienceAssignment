@@ -1,0 +1,30 @@
+Description: A dataset with running activity metrics and weather measurements
+Collected by: Vijay Sadashivaiah
+Device used: Garmin 245
+Sources: Running activities - Garmin connect
+         Weather - darksky.net
+Date created: 2022-10-04
+Reason: Assignment 2 - Data Science course taught by Prof. Thilanka Munasinghe (Fall 2022)
+Contact: sadasv2@rpi.edu
+
+
+Data collected:
+
+Date/Time: Date and Time in ISO 8601 format YYYY-MM-DDTHH:MM:SS	
+Avg Temp: Average Tempurature during activity in degrees celcius (C)
+Avg Humidity: Average humidity in percentage (%)
+Distance: Distance of run in Kilometers (Km)
+Calories: Number of calories burned (calories)
+Time: Length of recorded activity in HH:MM:SS
+Avg HR: Average Heart rate in beats per minute (bpm)
+Max HR: Maximum Heart rate in beats per minute (bpm)
+Avg Pace: Average Pace in Kilometers/hour (Km/h)
+Best Pace: Best Pace in Kilometers/hour (Km/h)
+Total Ascent: Total elevation climbed in meters (m)
+Total Descent: Total elevation lost in meters (m)
+Min Elevation: Maximum elevation during the activity in meters (m)
+Max Elevation: Minimum elevation during the activity in meters (m)
+
+
+
+
