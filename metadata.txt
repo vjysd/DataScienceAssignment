@@ -24,7 +24,3 @@ Total Ascent: Total elevation climbed in meters (m)
 Total Descent: Total elevation lost in meters (m)
 Min Elevation: Maximum elevation during the activity in meters (m)
 Max Elevation: Minimum elevation during the activity in meters (m)
-
-
-
-
