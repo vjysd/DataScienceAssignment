@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+>
+
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Dataset on running performance</dc:title>
+<dc:creator>Vijay Sadashivaiah</dc:creator>
+<dc:subject>Running data</dc:subject>
+<dc:description>A dataset with running activity metrics and weather measurements
+
+Data collected:
+
+Date/Time: Date and Time in ISO 8601 format YYYY-MM-DDTHH:MM:SS	
+Avg Temp: Average Tempurature during activity in degrees celcius (C)
+Avg Humidity: Average humidity in percentage (%)
+Distance: Distance of run in Kilometers (Km)
+Calories: Number of calories burned (calories)
+Time: Length of recorded activity in HH:MM:SS
+Avg HR: Average Heart rate in beats per minute (bpm)
+Max HR: Maximum Heart rate in beats per minute (bpm)
+Avg Pace: Average Pace in Kilometers/hour (Km/h)
+Best Pace: Best Pace in Kilometers/hour (Km/h)
+Total Ascent: Total elevation climbed in meters (m)
+Total Descent: Total elevation lost in meters (m)
+Min Elevation: Maximum elevation during the activity in meters (m)
+Max Elevation: Minimum elevation during the activity in meters (m)</dc:description>
+<dc:publisher>GitHub</dc:publisher>
+<dc:date>2022-11-08</dc:date>
+<dc:type>Table</dc:type>
+<dc:format>HDF5</dc:format>
+<dc:identifier>https://github.com/vjysd/DataScienceAssignment</dc:identifier>
+<dc:source>Garmin Connect</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>April 2022 to October 2022</dc:coverage>
+<dc:rights>Public Access</dc:rights>
+<dc:provenance>	Origin - Vijay Sadashivaiah, Rensselaer Polytechnic Institute		
+Owner History - Vijay Sadashivaiah, Rensselaer Polytechnic Institute		
+What - data on running metrics measured using a garmin watch		
+Where - data collected from garmin connect portal		
+When - 	Between April and October of 2022
+Why - part of data science assignment		
+How - generation and measurement			
+</dc:provenance>

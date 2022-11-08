@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+>
+
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>RPI shuttle data</dc:title>
+<dc:creator>Zachary Fernandes</dc:creator>
+<dc:subject>Dataset</dc:subject>
+<dc:description>A dataset collected on when shuttles arrived at the Rensselaer Union, how long they took, and how many people boarded
+
+Data collected:
+
+Date - date information was recorded in ISO 8601
+Time - time shuttle entered circle in ISO 8601 (time zone: Eastern Time, UTC−05:00)
+Shuttle Number and Direction - see Shuttle Number and Shuttle Next Direction
+Shuttle Number - number of shuttle (ID)
+Shuttle Next Direction - next route shuttle will take
+People - how many people board the shuttle
+Stop Time - time from door opening to door closing (ISO 8601)
+Time Since SNS - time for same shuttle to return (deprecated from previous methodology) 
+SNS = Same Number Shuttle </dc:description>
+<dc:publisher>Google docs</dc:publisher>
+<dc:date>2022-11-08</dc:date>
+<dc:type>Table</dc:type>
+<dc:format>HDF5</dc:format>
+<dc:identifier>https://tinyurl.com/2s43fw4a</dc:identifier>
+<dc:source>Google Docs</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>data collected during most weekdays during the week of 2022-09-26</dc:coverage>
+<dc:rights>Public Access</dc:rights>
+<dc:provenance>	Origin - Zachary Fernandes, Rensselaer Polytechnic Institute student
+Owner History - Zachary Fernandes, Rensselaer Polytechnic Institute
+What - data collected on when shuttles arrived at the Rensselaer Union, how long they
+            took, and how many people boarded
+Where - data collected at the closest red table to the right of the north entrance of the
+              Rensselaer Union
+When - data collected during most weekdays during the week of 2022-09-26
+
+Why - Shuttle Tracker underperforms at tracking shuttles, observing when shuttles arrive
+           at a popular stop like the Union may help understand how the shuttles operate
+How - observation from the Union, recording data into Google Sheets when shuttles arrive,
+           saving data as a CSV, using ISO 8601 for times			
+</dc:provenance>
